@@ -14,4 +14,5 @@ Turtle Module: This is a standard Python module, so no additional installation i
 Installation:
 Download or clone this repository to your computer.
 Make sure Python is installed. You can check this by running python --version or python3 --version in your terminal.
-Run the game by opening a terminal in the project folder.
+Run the game by opening a terminal in the project folder and typing:
+python turtle_race.py
