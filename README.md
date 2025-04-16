@@ -45,11 +45,3 @@ No specific installation is required. Save the provided code as a `.py` file (e.
 * **Turtle Movement Loop:** Iterates through each turtle in the `turtles_list`, making it move forward a random distance.
 * **Win Condition:** Checks if a turtle's x-coordinate is greater than or equal to 220 (the finish line). If so, it determines the winner's color and checks if the user's bet matches. It then prints the result and sets `turtle_race_active` to `False` to end the race.
 * **Screen Exit:** `screen.exitonclick()` keeps the window open until the user clicks on it.
-
-## Potential Improvements
-
-* Add visual finish line.
-* Allow the user to place multiple bets.
-* Implement different speeds for turtles.
-* Display the race progress visually.
-* Handle invalid user input more gracefully.
